@@ -3,6 +3,7 @@
 ## Run an Angular app locally with Docker and Nginx
 
 >Lightning talk presentation given at ng-conf.com's 2021 online conference.
+>Youtube: [Run an Angular app locally with Docker and Nginx | Drew Shirts | Lightning Talks 2021](https://www.youtube.com/watch?v=YHgCErjmYr8)
 
 # Ng-Conf 2021 - Presentation Script
 
